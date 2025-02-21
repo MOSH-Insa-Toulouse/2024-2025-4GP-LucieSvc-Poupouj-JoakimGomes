@@ -4,4 +4,4 @@
 
 1. [x] Créer le dépôt du projet 
 2. [x] récupérer commit
-3. 
+3. [x]
