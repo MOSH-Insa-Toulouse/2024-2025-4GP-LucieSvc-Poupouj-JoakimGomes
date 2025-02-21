@@ -3,4 +3,4 @@
 ## Liste des taches pour notre projet
 
 1. [x] Créer le dépôt du projet 
-2. [x] 
+2. [x] récupérer commit
